@@ -2,11 +2,11 @@
 
 ## Candidate
 
-- **Name:**
-- **Email:**
-- **GitHub:**
-- **Selected problem:**
-- **Demo video:**
+- **Name:*Lokesh Konathala*
+- **Email:*lokeshkonathala18@gmail.com*
+- **GitHub:*https://github.com/LokeshKonathala*
+- **Selected problem:*Reconnecting-realtime-feed*
+- **Demo video:*https://drive.google.com/file/d/1aCIhjWH7yMDz6hyv1FhR17WXxsz1yBBi/view?usp=drive_link*
 
 ## Run the project
 
